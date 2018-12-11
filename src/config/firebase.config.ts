@@ -1,9 +1,9 @@
 export const FirebaseConfig ={
-    apiKey: "AIzaSyDYs9jEwNyQTCu59i_y_fxu4A-GlmHGvXI",
-    authDomain: "redesocial-96be2.firebaseapp.com",
-    databaseURL: "https://redesocial-96be2.firebaseio.com",
-    projectId: "redesocial-96be2",
-    storageBucket: "redesocial-96be2.appspot.com",
-    messagingSenderId: "389511700371"
+  apiKey: "AIzaSyCCbHLvhNm7xXIDSHAt8-IMmqEbF2qs2_M",
+  authDomain: "app3-99f42.firebaseapp.com",
+  databaseURL: "https://app3-99f42.firebaseio.com",
+  projectId: "app3-99f42",
+  storageBucket: "app3-99f42.appspot.com",
+  messagingSenderId: "222685774050"
   };
-  
+ 
